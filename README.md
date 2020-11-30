@@ -1,6 +1,6 @@
 # Home Loan Prediction <br>
 
-This a project by team NonAnalysts for the course Data Analytics for Semester 5 <br>
+This a project by team NonAnalysts for the course Data Analytics UE18CS312 for Semester 5 <br>
 
 Instructions to reproduce project : <br>
 1. The ipynb file has been executed on github and its output's are visible but if someone wants to rerun the project they can do so by going to the original collab link
